@@ -7,7 +7,7 @@ class Player
     @hireable = true
   end
 
-  def hireable_player?
+  def hireable?
     @hireable
   end
 
